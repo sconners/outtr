@@ -1,0 +1,3 @@
+outtr
+=====
+Gravity based sharing.
